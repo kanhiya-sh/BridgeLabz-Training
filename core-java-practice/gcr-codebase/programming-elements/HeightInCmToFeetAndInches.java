@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class HeightInCmtoFeetAndInches {
+public class HeightInCmToFeetAndInches {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         double heightInCm = scanner.nextDouble();
