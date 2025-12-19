@@ -1,4 +1,4 @@
-package Capgemini_Day_2;
+
 
 import java.util.Scanner;
 
