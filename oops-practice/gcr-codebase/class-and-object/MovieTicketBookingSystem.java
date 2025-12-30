@@ -1,7 +1,6 @@
 package Capgemini_Day12_class_object;
 
 class MovieTicket {
-
     private String movieName;
     private String seatNumber;
     private double price;
@@ -41,6 +40,8 @@ public class MovieTicketBookingSystem {
         ticket.bookTicket("Dragon", "A10", 120);
         ticket.bookTicket("Dragon", "A10", 120);
         ticket.bookTicket("Dragon", "A10", 120);
+        System.out.println("Price: $120.0");
+        System.out.println();
         ticket.displayTicketDetails();
     }
 }
