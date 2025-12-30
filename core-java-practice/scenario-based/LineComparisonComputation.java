@@ -30,11 +30,27 @@ public class LineComparisonComputation {
 		Double line1 = Math.sqrt(Math.pow(x2 - x1, 2) + Math.pow(y2 - y1, 2));
 		Double line2 = Math.sqrt(Math.pow(m2 - m1, 2) + Math.pow(n2 - n1, 2));
 		
-		if(Double.valueOf(line1).equals(line2)) {
-			System.out.println("Both lines are equal");
+		System.out.println("The length of line 1 is : " + line1);
+		
+		if(Double.valueOf(line1).equals(line2)) { 
+			System.out.println("Both lines are equal in length");
         } 
 		else {
             System.out.println("Both lines are not equal");
+		}
+		
+//		now we are comparing both the lines based on their end points
+		
+		int result = line1.compareTo(line2);
+		
+		if(result == 0) {
+            System.out.println("After comparing we found that both lines are equal");
+		}
+		else if (result > 0) {
+            System.out.println("Line 1 is greater than Line 2");
+		}
+		else {
+			System.out.println("Line 1 is smaller than Line 2");
 		}
 		
 	}
