@@ -23,8 +23,13 @@ public class SnakeandLadder {
 				System.out.println("No Play");
 			}
 			if (options == 1) {
-				position += dice;
-				System.out.println("You Found the Ladder! You Moved to " + position);
+				if( position + dice <= 100) {
+					position += dice;
+					System.out.println("You Found the Ladder! You Moved to " + position);
+				}
+				else {
+					System.out.println("Ladder found but cannot move as you can go beyond 100");
+				}
 			}
 		    else if (options == 2) {
 		    		position -= dice;
