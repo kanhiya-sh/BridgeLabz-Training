@@ -9,26 +9,31 @@ public class SnakeandLadder {
 		int position = 0;
 		System.out.println("Player starts at position " + position);
 		
+		while(position < 100) { 
 //		now we are rolling the dice and using random the number between 1 to 6 is getting selected 
-		int dice = (int)(Math.random() * 6) + 1;
-		System.out.println("Dice rolled : " + dice);
-		
-//		now we are setting position for the user that where they will move to their position
-		int options = (int)(Math.random() * 3); 
-		System.out.println("You got the option : " + options);
-		// 0 - for no play , 1 - ladder , 2 - snake bite 
-		switch(options) {
-		case 0 :
-			System.out.println("No Play");
-			break;
-		case 1 :
-			position += dice ;
-			System.out.println("You Found a Ladder!! Moved to " + position);
-			break;
-		case 2 :
-			position -= dice;
-			 System.out.println("Bitten by Snake!! Move back to " + position);
-			 break;
+			int dice = (int)(Math.random() * 6) + 1;
+			System.out.println("Dice rolled : " + dice);
+			
+	//		now we are setting position for the user that where they will move to their position
+			int options = (int)(Math.random() * 3); 
+			System.out.println("You got the option : " + options);
+			// 0 - for no play , 1 - ladder , 2 - snake bite 
+	
+			if(options == 0) {
+				System.out.println("No Play");
+			}
+			if (options == 1) {
+				position += dice;
+				System.out.println("You Found the Ladder! You Moved to " + position);
+			}
+		    else if (options == 2) {
+		    		position -= dice;
+		    		if (position < 0) {
+		    			position = 0;
+		    		}
+		        System.out.println("Bitten by Snake! Moved back to " + position);
+		    }
+		    
 		}
 
 	}
