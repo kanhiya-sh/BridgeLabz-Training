@@ -73,9 +73,10 @@ BridgeLabz-Training
 On this day, I started my Java training by setting up the development environment and understanding the workflow.
 
 **Work Done:**
-- Java and IDE setup  
-- Introduction to Git and GitHub  
-- Solved LeetCode problems to improve logic building  
+- Installed and configured Java (JDK) and IDE  
+- Understood project structure and training workflow  
+- Learned basics of Git commands (`clone`, `add`, `commit`, `push`)  
+- Solved introductory LeetCode problems to build logical thinking  
 
 🔗 **LeetCode Practice:**  
 [Open LeetCode Codebase](https://github.com/kanhiya-sh/BridgeLabz-Training/tree/core-java-practice/core-java-practice/leet-code-codebase)
@@ -86,9 +87,10 @@ On this day, I started my Java training by setting up the development environmen
 Focused on strengthening Java fundamentals by starting Programming Elements (Level 1).
 
 **Work Done:**
-- Variables and data types  
-- Operators  
-- Basic input and output using `Scanner`  
+- Learned Java syntax, variables, and data types  
+- Practiced operators and expressions  
+- Implemented basic input/output programs using `Scanner`  
+- Solved beginner-level Java programs  
 
 🔗 **Programming Elements:**  
 [Open Programming Elements](https://github.com/kanhiya-sh/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/programming-elements)
@@ -99,9 +101,10 @@ Focused on strengthening Java fundamentals by starting Programming Elements (Lev
 Continued Programming Elements with more logical and arithmetic problems.
 
 **Work Done:**
-- Arithmetic programs  
-- Logical problem solving  
-- Improving code structure and readability  
+- Implemented arithmetic-based Java programs  
+- Practiced logical and conditional expressions  
+- Improved problem-solving approach and code readability  
+- Strengthened understanding of Java program structure  
 
 🔗 **Programming Elements:**  
 [Open Programming Elements](https://github.com/kanhiya-sh/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/programming-elements)
@@ -112,9 +115,10 @@ Continued Programming Elements with more logical and arithmetic problems.
 Learned how program execution flow is controlled in Java.
 
 **Work Done:**
-- Conditional statements (`if`, `if-else`, `switch`)  
-- Looping constructs (`for`, `while`, `do-while`)  
-- Logic-based control flow programs  
+- Implemented conditional statements (`if`, `if-else`, `switch`)  
+- Practiced looping constructs (`for`, `while`, `do-while`)  
+- Solved logic-based control flow programs  
+- Understood flow control through real examples  
 
 🔗 **Control Flow:**  
 [Open Control Flow](https://github.com/kanhiya-sh/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/control-flow)
@@ -125,8 +129,9 @@ Learned how program execution flow is controlled in Java.
 Started working on real-world problem statements using Java.
 
 **Work Done:**
-- Scenario-based Java problems  
-- Applying Java logic to practical situations  
+- Solved scenario-based Java problems  
+- Applied core Java concepts to practical use cases  
+- Improved logical thinking for real-world situations  
 
 🔗 **Scenario Based:**  
 [Open Scenario Based Problems](https://github.com/kanhiya-sh/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based)
@@ -137,9 +142,10 @@ Started working on real-world problem statements using Java.
 Focused on understanding and implementing arrays.
 
 **Work Done:**
-- One-dimensional arrays  
-- Traversal and manipulation  
-- Array-based problem solving  
+- Learned array declaration, initialization, and traversal  
+- Performed array manipulation operations  
+- Solved array-based logical problems  
+- Understood memory representation of arrays  
 
 🔗 **Arrays:**  
 [Open Arrays](https://github.com/kanhiya-sh/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/arrays)
@@ -150,9 +156,10 @@ Focused on understanding and implementing arrays.
 Worked on String handling in Java.
 
 **Work Done:**
-- String creation and manipulation  
-- Common String methods  
-- Logic-based String problems  
+- Learned String creation and immutability  
+- Practiced commonly used String methods  
+- Solved logic-based String manipulation problems  
+- Understood difference between `String`, `StringBuilder`, and `StringBuffer`  
 
 🔗 **Strings:**  
 [Open Strings](https://github.com/kanhiya-sh/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/string)
@@ -163,9 +170,10 @@ Worked on String handling in Java.
 Started learning about methods and modular programming.
 
 **Work Done:**
-- User-defined methods  
-- Method parameters and return types  
-- Writing reusable code  
+- Created user-defined methods  
+- Practiced passing parameters and return values  
+- Learned modular programming concepts  
+- Improved code reusability and readability  
 
 🔗 **Methods:**  
 [Open Methods](https://github.com/kanhiya-sh/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/methods)
@@ -176,8 +184,9 @@ Started learning about methods and modular programming.
 Continued practicing methods with better structure and reuse.
 
 **Work Done:**
-- Method reusability  
-- Modular programming  
+- Implemented reusable methods across programs  
+- Structured programs using modular approach  
+- Refactored existing code for better clarity  
 
 🔗 **Methods:**  
 [Open Methods](https://github.com/kanhiya-sh/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/methods)
@@ -188,8 +197,9 @@ Continued practicing methods with better structure and reuse.
 Worked on additional Java practice beyond the core modules.
 
 **Work Done:**
-- Extra Java programs  
-- Revision of previously learned concepts  
+- Solved extra Java practice problems  
+- Revised previously learned Core Java concepts  
+- Strengthened overall logical problem-solving ability  
 
 🔗 **Extras:**  
 [Open Extras](https://github.com/kanhiya-sh/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/extras)
@@ -200,8 +210,9 @@ Worked on additional Java practice beyond the core modules.
 Revisited scenario-based problems with more complex logic.
 
 **Work Done:**
-- Advanced scenario-based Java problems  
-- Case-based and real-world problem solving  
+- Solved advanced scenario-based Java problems  
+- Applied multiple Java concepts together  
+- Improved analytical thinking for complex cases  
 
 🔗 **Scenario Based:**  
 [Open Scenario Based Problems](https://github.com/kanhiya-sh/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based)
@@ -214,9 +225,9 @@ Revisited scenario-based problems with more complex logic.
 Started learning Object-Oriented Programming (OOPS).
 
 **Work Done:**
-- Introduction to OOPS concepts  
-- Understanding Class and Object  
-- Implemented class-and-object programs  
+- Learned core OOPS concepts and principles  
+- Implemented programs using Class and Object  
+- Modeled real-world entities using Java classes  
 
 🔗 **Class and Object:**  
 [Open Class and Object](https://github.com/kanhiya-sh/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/class-and-object)
@@ -227,9 +238,9 @@ Started learning Object-Oriented Programming (OOPS).
 Class & Object – Continued.
 
 **Work Done:**
-- Created multiple Java classes  
-- Object instantiation using `new` keyword  
-- Accessed class variables and methods  
+- Created multiple interrelated classes  
+- Practiced object creation and method calling  
+- Understood interaction between objects  
 
 🔗 **Class and Object:**  
 [Open Class and Object](https://github.com/kanhiya-sh/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/class-and-object)
@@ -240,9 +251,9 @@ Class & Object – Continued.
 Constructors and Instance.
 
 **Work Done:**
-- Default constructors  
-- Parameterized constructors  
-- Object state initialization  
+- Implemented default and parameterized constructors  
+- Initialized object state using constructors  
+- Understood constructor role in object lifecycle  
 
 🔗 **Constructor and Instance:**  
 [Open Constructors](https://github.com/kanhiya-sh/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/constructor-and-instance)
@@ -253,9 +264,9 @@ Constructors and Instance.
 Keywords in OOPS.
 
 **Work Done:**
-- `this` keyword  
-- `static` variables and methods  
-- `final` keyword  
+- Used `this` keyword to resolve ambiguity  
+- Implemented `static` variables and methods  
+- Applied `final` keyword to restrict modification  
 
 🔗 **This / Static / Final:**  
 [Open This-Static-Final](https://github.com/kanhiya-sh/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/this-static-final-and-instance)
@@ -266,9 +277,9 @@ Keywords in OOPS.
 Inheritance.
 
 **Work Done:**
-- `extends` keyword  
-- Parent-child relationship  
-- Code reusability  
+- Implemented inheritance using `extends` keyword  
+- Practiced parent-child class relationships  
+- Achieved code reusability through inheritance  
 
 🔗 **Inheritance:**  
 [Open Inheritance](https://github.com/kanhiya-sh/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/inheritance)
@@ -279,9 +290,9 @@ Inheritance.
 OOPS Pillars – Encapsulation & Polymorphism.
 
 **Work Done:**
-- Encapsulation using getters and setters  
-- Method overriding  
-- Runtime polymorphism  
+- Implemented encapsulation using private variables  
+- Used getters and setters for data protection  
+- Practiced method overriding and runtime polymorphism  
 
 🔗 **OOPS 4 Pillars:**  
 [Open OOPS 4 Pillars](https://github.com/kanhiya-sh/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/oops-4-pillars)
@@ -292,9 +303,9 @@ OOPS Pillars – Encapsulation & Polymorphism.
 Class & Sequence Diagrams.
 
 **Work Done:**
-- Class diagrams  
-- Object diagrams  
-- Sequence diagrams  
+- Studied class diagrams and object diagrams  
+- Understood sequence diagrams for object interaction  
+- Visualized program flow using UML diagrams  
 
 🔗 **Class Object Sequence Diagrams:**  
 [Open Diagrams](https://github.com/kanhiya-sh/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/class-object-sequence-diagrams)
