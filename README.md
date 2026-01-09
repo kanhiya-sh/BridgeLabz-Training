@@ -301,6 +301,42 @@ Class & Sequence Diagrams.
 
 ---
 
+### 📆 **07 January 2026**
+Applied OOPS concepts to logic-based problems and real-world applications.
+
+**Work Done:**
+- Solved Java logic-building problems  
+- Implemented scenario-based Java programs  
+- Applied OOPS concepts in real-world problem statements  
+
+🔗 **LeetCode Practice:**  
+[Open LeetCode Practice](https://github.com/kanhiya-sh/BridgeLabz-Training/tree/oops-practice/oops-practice/leet-code-codebase)  
+
+🔗 **Scenario Based:**  
+[Open Scenario Based Problems](https://github.com/kanhiya-sh/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based)  
+
+---
+
+## 📅 DSA PRACTICE – TRAINING TIMELINE
+
+### 📆 **08 January 2026**
+Started Data Structures and Algorithms (DSA) practice with linked list concepts.
+
+**Work Done:**
+- Implemented linked list–based programs in Java  
+- Practiced node creation, traversal, and insertion logic  
+- Strengthened understanding of references and dynamic data structures  
+- Solved DSA-oriented problems to improve problem-solving skills  
+- Solved LeetCode problems related to data structures and logic building  
+
+🔗 **Linked List – DSA Practice:**  
+[Open Linked List Practice](https://github.com/kanhiya-sh/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/linked-list)  
+
+🔗 **LeetCode – DSA Practice:**  
+[Open DSA LeetCode Practice](https://github.com/kanhiya-sh/BridgeLabz-Training/tree/dsa-practice/dsa-practice/leet-code-codebase)  
+
+---
+
 ## 🧠 Concepts Covered
 
 - Core Java Fundamentals  
