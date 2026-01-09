@@ -1,7 +1,7 @@
 # 🚀 BridgeLabz – Java Training
 
 Welcome to my **BridgeLabz Java Training Repository** 👋  
-This repository documents my **day-wise Core Java learning** and hands-on practice, strictly aligned with my **actual GitHub commits** during the training.
+This repository documents my **day-wise Core Java, OOPS, and DSA learning** and hands-on practice, strictly aligned with my **actual GitHub commits** during the training.
 
 ---
 
@@ -15,233 +15,262 @@ This repository documents my **day-wise Core Java learning** and hands-on practi
 ---
 
 ## 🗂️ Repository Structure
+
 ```
 BridgeLabz-Training
 │
 ├── core-java-practice
-│   │
-│   ├── gcr-codebase
-│   │   ├── programming-elements
-│   │   ├── control-flow
-│   │   ├── arrays
-│   │   ├── strings
-│   │   ├── methods
-│   │
-│   ├── leet-code-codebase
-│   │
-│   └── scenario-based
+│ │
+│ ├── gcr-codebase
+│ │ ├── programming-elements
+│ │ ├── control-flow
+│ │ ├── arrays
+│ │ ├── strings
+│ │ └── methods
+│ │
+│ ├── leet-code-codebase
+│ │
+│ └── scenario-based
 │
 ├── oops-practice
-│   │
-│   ├── gcr-codebase
-│   │   ├── class-and-object
-│   │   ├── inheritance
-│   │   ├── encapsulation
-│   │   └── polymorphism
-│   │
-│   ├── scenario-based
-│   │
-│   └── leet-code-codebase
+│ │
+│ ├── gcr-codebase
+│ │ ├── class-and-object
+│ │ ├── inheritance
+│ │ ├── encapsulation
+│ │ └── polymorphism
+│ │
+│ ├── leet-code-codebase
+│ │
+│ └── scenario-based
+│
+├── dsa-practice
+│ │
+│ ├── gcr-codebase
+│ │ └── linked-list
+│ │
+│ ├── leet-code-codebase
+│ │
+│ └── README.md
+│
+├── reviews
 │
 └── README.md
-
 ```
 
+---
 
-📌 Each folder inside **core-java-practice** represents a specific **Core Java learning module**, organized in a clean and structured manner.
+## 📌 Folder Overview
+
+- **gcr-codebase** – Structured concept-wise classroom practice  
+- **leet-code-codebase** – Logic building and DSA practice (LeetCode)  
+- **scenario-based** – Real-world and case-based Java problems  
+- **dsa-practice** – Data Structures & Algorithms implementation  
+- **reviews** – Training reviews, feedback, and reflections  
 
 ---
 
-📌  
-- **gcr-codebase** contains structured Core Java concept-wise practice  
-- **leet-code-codebase** contains logic-building and DSA practice using LeetCode  
-- **scenario-based** contains real-world and case-based Java problems  
-
----
-
-## 📅 Training Timeline
+## 📅 CORE JAVA – TRAINING TIMELINE
 
 ### 📆 **16 December 2025**
-On this day, I started my Java training by setting up the development environment and understanding the workflow.
+Started Java training with environment setup and workflow understanding.
 
 **Work Done:**
 - Java and IDE setup  
 - Introduction to Git and GitHub  
-- Solved LeetCode problems to improve logic building  
+- LeetCode problem solving  
 
 🔗 **LeetCode Practice:**  
-[https://github.com/kanhiya-sh/BridgeLabz-Training/tree/core-java-practice/core-java-practice/leet-code-codebase](https://github.com/kanhiya-sh/BridgeLabz-Training/tree/core-java-practice/core-java-practice/leet-code-codebase)
+https://github.com/kanhiya-sh/BridgeLabz-Training/tree/core-java-practice/core-java-practice/leet-code-codebase
 
 ---
 
 ### 📆 **17 December 2025**
-Focused on strengthening Java fundamentals by starting Programming Elements (Level 1).
+Programming Elements (Level 1).
 
 **Work Done:**
 - Variables and data types  
 - Operators  
-- Basic input and output using `Scanner`  
+- Input/output using `Scanner`  
 
 🔗 **Programming Elements:**  
-[https://github.com/kanhiya-sh/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/programming-elements](https://github.com/kanhiya-sh/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/programming-elements)
+https://github.com/kanhiya-sh/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/programming-elements
 
 ---
 
 ### 📆 **18 December 2025**
-Continued Programming Elements with more logical and arithmetic problems.
+Programming Elements – Continued.
 
 **Work Done:**
 - Arithmetic programs  
 - Logical problem solving  
-- Improving code structure and readability  
-
-🔗 **Programming Elements:**  
-[https://github.com/kanhiya-sh/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/programming-elements](https://github.com/kanhiya-sh/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/programming-elements)
+- Code readability improvement  
 
 ---
 
 ### 📆 **19 December 2025**
-Learned how program execution flow is controlled in Java.
+Control Flow in Java.
 
 **Work Done:**
-- Conditional statements (`if`, `if-else`, `switch`)  
-- Looping constructs (`for`, `while`, `do-while`)  
-- Logic-based control flow programs  
+- `if`, `if-else`, `switch`  
+- `for`, `while`, `do-while`  
+- Control-flow based problems  
 
 🔗 **Control Flow:**  
-[https://github.com/kanhiya-sh/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/control-flow](https://github.com/kanhiya-sh/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/control-flow)
+https://github.com/kanhiya-sh/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/control-flow
 
 ---
 
 ### 📆 **20 December 2025**
-Started working on real-world problem statements using Java.
+Scenario-based Java programs.
 
 **Work Done:**
-- Scenario-based Java problems  
-- Applying Java logic to practical situations  
-
-🔗 **Scenario Based:**  
-[https://github.com/kanhiya-sh/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based](https://github.com/kanhiya-sh/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based)
+- Real-world problem statements  
+- Practical Java logic  
 
 ---
 
 ### 📆 **22 December 2025**
-Focused on understanding and implementing arrays.
+Arrays.
 
 **Work Done:**
 - One-dimensional arrays  
 - Traversal and manipulation  
 - Array-based problem solving  
 
-🔗 **Arrays:**  
-[https://github.com/kanhiya-sh/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/arrays](https://github.com/kanhiya-sh/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/arrays)
-
 ---
 
 ### 📆 **23 December 2025**
-Worked on String handling in Java.
+Strings.
 
 **Work Done:**
 - String creation and manipulation  
 - Common String methods  
-- Logic-based String problems  
-
-🔗 **Strings:**  
-[https://github.com/kanhiya-sh/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/string](https://github.com/kanhiya-sh/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/string)
+- Logic-based String programs  
 
 ---
 
 ### 📆 **24 December 2025**
-Started learning about methods and modular programming.
+Methods and Modular Programming.
 
 **Work Done:**
 - User-defined methods  
-- Method parameters and return types  
-- Writing reusable code  
-
-🔗 **Methods:**  
-[https://github.com/kanhiya-sh/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/methods](https://github.com/kanhiya-sh/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/methods)
+- Parameters and return types  
+- Reusable code  
 
 ---
 
 ### 📆 **26 December 2025**
-Continued practicing methods with better structure and reuse.
+Methods – Continued.
 
 **Work Done:**
 - Method reusability  
-- Modular programming  
-- Improving program organization  
-
-🔗 **Methods:**  
-[https://github.com/kanhiya-sh/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/methods](https://github.com/kanhiya-sh/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/methods)
+- Modular program structure  
 
 ---
 
 ### 📆 **29 December 2025**
-Worked on additional Java practice beyond the core modules.
+Extra Java Practice.
 
 **Work Done:**
-- Extra Java programs  
-- Revision of previously learned concepts  
-- Strengthening overall logic  
-
-🔗 **Extras:**  
-[https://github.com/kanhiya-sh/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/extras](https://github.com/kanhiya-sh/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/extras)
+- Additional Java programs  
+- Revision of concepts  
 
 ---
 
 ### 📆 **30 December 2025**
-Revisited scenario-based problems with more complex logic.
+Advanced Scenario-Based Problems.
 
 **Work Done:**
-- Advanced scenario-based Java problems  
-- Case-based and real-world problem solving  
-
-🔗 **Scenario Based:**  
-[https://github.com/kanhiya-sh/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based](https://github.com/kanhiya-sh/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based)
+- Complex real-world cases  
+- Case-based logic  
 
 ---
 
+## 📅 OOPS PRACTICE – TIMELINE
+
 ### 📆 **31 December 2025**
-Started learning Object-Oriented Programming (OOPS) concepts and implemented basic programs using Class and Object.
+Introduction to OOPS.
 
 **Work Done:**
-- Introduction to OOPS concepts  
-- Understanding Class and Object  
-- Writing Java programs based on real-world entities  
-- Implemented class-and-object based programs  
+- OOPS concepts  
+- Class and Object  
+- Real-world entity programs  
 
-🔗 **Class and Object (OOPS):**  
-[https://github.com/kanhiya-sh/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/class-and-object](https://github.com/kanhiya-sh/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/class-and-object)
+---
+
+### 📆 **01 January 2026**
+Class & Object.
+
+**Work Done:**
+- Class creation  
+- Object instantiation  
+- Accessing class members  
+
+---
+
+### 📆 **02 January 2026**
+Constructors.
+
+**Work Done:**
+- Default constructors  
+- Parameterized constructors  
+
+---
+
+### 📆 **03 January 2026**
+Keywords.
+
+**Work Done:**
+- `this` keyword  
+- `static` members  
+- `final` keyword  
+
+---
+
+### 📆 **04 January 2026**
+Inheritance.
+
+**Work Done:**
+- `extends` keyword  
+- Parent-child relationship  
+- Code reuse  
+
+---
+
+### 📆 **05 January 2026**
+Encapsulation & Polymorphism.
+
+**Work Done:**
+- Getters and setters  
+- Method overriding  
 
 ---
 
 ## 🧠 Concepts Covered
 
-- Java Programming Fundamentals  
+- Core Java Fundamentals  
 - Programming Elements  
 - Control Flow  
-- Arrays  
-- Strings  
-- Methods and Modular Programming  
-- Scenario-Based Problem Solving  
+- Arrays & Strings  
+- Methods & Modular Programming  
+- Object-Oriented Programming  
+- Data Structures & Algorithms  
 - LeetCode Practice  
 - Git & GitHub  
-- OOPs Concepts and covered class and object
 
 ---
 
 ## 🔄 Ongoing Updates
 
 This repository is **actively maintained**.  
-New commits, folders, and improvements will continue to be added as the training progresses.
+New commits, folders, and improvements will be added regularly.
 
 ---
 
 ## 🔗 Repository Link
 
-👉 **BridgeLabz-Training Repository**  
-[https://github.com/kanhiya-sh/BridgeLabz-Training](https://github.com/kanhiya-sh/BridgeLabz-Training)
+https://github.com/kanhiya-sh/BridgeLabz-Training
 
 ---
 
