@@ -78,7 +78,7 @@ On this day, I started my Java training by setting up the development environmen
 - Solved LeetCode problems to improve logic building  
 
 🔗 **LeetCode Practice:**  
-[https://github.com/kanhiya-sh/BridgeLabz-Training/tree/core-java-practice/core-java-practice/leet-code-codebase]
+[Open LeetCode Codebase](https://github.com/kanhiya-sh/BridgeLabz-Training/tree/core-java-practice/core-java-practice/leet-code-codebase)
 
 ---
 
@@ -91,7 +91,7 @@ Focused on strengthening Java fundamentals by starting Programming Elements (Lev
 - Basic input and output using `Scanner`  
 
 🔗 **Programming Elements:**  
-[https://github.com/kanhiya-sh/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/programming-elements]
+[Open Programming Elements](https://github.com/kanhiya-sh/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/programming-elements)
 
 ---
 
@@ -104,7 +104,7 @@ Continued Programming Elements with more logical and arithmetic problems.
 - Improving code structure and readability  
 
 🔗 **Programming Elements:**  
-[https://github.com/kanhiya-sh/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/programming-elements]
+[Open Programming Elements](https://github.com/kanhiya-sh/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/programming-elements)
 
 ---
 
@@ -117,7 +117,7 @@ Learned how program execution flow is controlled in Java.
 - Logic-based control flow programs  
 
 🔗 **Control Flow:**  
-[https://github.com/kanhiya-sh/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/control-flow]
+[Open Control Flow](https://github.com/kanhiya-sh/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/control-flow)
 
 ---
 
@@ -129,7 +129,7 @@ Started working on real-world problem statements using Java.
 - Applying Java logic to practical situations  
 
 🔗 **Scenario Based:**  
-[https://github.com/kanhiya-sh/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based]
+[Open Scenario Based Problems](https://github.com/kanhiya-sh/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based)
 
 ---
 
@@ -142,7 +142,7 @@ Focused on understanding and implementing arrays.
 - Array-based problem solving  
 
 🔗 **Arrays:**  
-[https://github.com/kanhiya-sh/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/arrays]
+[Open Arrays](https://github.com/kanhiya-sh/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/arrays)
 
 ---
 
@@ -155,7 +155,7 @@ Worked on String handling in Java.
 - Logic-based String problems  
 
 🔗 **Strings:**  
-[https://github.com/kanhiya-sh/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/string]
+[Open Strings](https://github.com/kanhiya-sh/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/string)
 
 ---
 
@@ -168,7 +168,7 @@ Started learning about methods and modular programming.
 - Writing reusable code  
 
 🔗 **Methods:**  
-[https://github.com/kanhiya-sh/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/methods]
+[Open Methods](https://github.com/kanhiya-sh/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/methods)
 
 ---
 
@@ -180,7 +180,7 @@ Continued practicing methods with better structure and reuse.
 - Modular programming  
 
 🔗 **Methods:**  
-[https://github.com/kanhiya-sh/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/methods]
+[Open Methods](https://github.com/kanhiya-sh/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/methods)
 
 ---
 
@@ -192,7 +192,7 @@ Worked on additional Java practice beyond the core modules.
 - Revision of previously learned concepts  
 
 🔗 **Extras:**  
-[https://github.com/kanhiya-sh/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/extras]
+[Open Extras](https://github.com/kanhiya-sh/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/extras)
 
 ---
 
@@ -204,7 +204,7 @@ Revisited scenario-based problems with more complex logic.
 - Case-based and real-world problem solving  
 
 🔗 **Scenario Based:**  
-[https://github.com/kanhiya-sh/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based]
+[Open Scenario Based Problems](https://github.com/kanhiya-sh/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based)
 
 ---
 
@@ -219,7 +219,7 @@ Started learning Object-Oriented Programming (OOPS).
 - Implemented class-and-object programs  
 
 🔗 **Class and Object:**  
-[https://github.com/kanhiya-sh/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/class-and-object]
+[Open Class and Object](https://github.com/kanhiya-sh/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/class-and-object)
 
 ---
 
@@ -232,7 +232,7 @@ Class & Object – Continued.
 - Accessed class variables and methods  
 
 🔗 **Class and Object:**  
-[https://github.com/kanhiya-sh/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/class-and-object]
+[Open Class and Object](https://github.com/kanhiya-sh/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/class-and-object)
 
 ---
 
@@ -245,7 +245,7 @@ Constructors and Instance.
 - Object state initialization  
 
 🔗 **Constructor and Instance:**  
-[https://github.com/kanhiya-sh/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/constructor-and-instance]
+[Open Constructors](https://github.com/kanhiya-sh/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/constructor-and-instance)
 
 ---
 
@@ -258,7 +258,7 @@ Keywords in OOPS.
 - `final` keyword  
 
 🔗 **This / Static / Final:**  
-[https://github.com/kanhiya-sh/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/this-static-final-and-instance]
+[Open This-Static-Final](https://github.com/kanhiya-sh/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/this-static-final-and-instance)
 
 ---
 
@@ -271,7 +271,7 @@ Inheritance.
 - Code reusability  
 
 🔗 **Inheritance:**  
-[https://github.com/kanhiya-sh/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/inheritance]
+[Open Inheritance](https://github.com/kanhiya-sh/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/inheritance)
 
 ---
 
@@ -284,7 +284,7 @@ OOPS Pillars – Encapsulation & Polymorphism.
 - Runtime polymorphism  
 
 🔗 **OOPS 4 Pillars:**  
-[https://github.com/kanhiya-sh/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/oops-4-pillars]
+[Open OOPS 4 Pillars](https://github.com/kanhiya-sh/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/oops-4-pillars)
 
 ---
 
@@ -297,7 +297,7 @@ Class & Sequence Diagrams.
 - Sequence diagrams  
 
 🔗 **Class Object Sequence Diagrams:**  
-[https://github.com/kanhiya-sh/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/class-object-sequence-diagrams]
+[Open Diagrams](https://github.com/kanhiya-sh/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/class-object-sequence-diagrams)
 
 ---
 
@@ -324,7 +324,7 @@ New commits, folders, and improvements will continue to be added.
 
 ## 🔗 Repository Link
 
-[https://github.com/kanhiya-sh/BridgeLabz-Training]
+[Open BridgeLabz-Training Repository](https://github.com/kanhiya-sh/BridgeLabz-Training)
 
 ---
 
