@@ -348,6 +348,88 @@ Started Data Structures and Algorithms (DSA) practice with linked list concepts.
 
 ---
 
+### 📆 **09 January 2026**
+Continued Data Structures and Algorithms (DSA) practice with focus on linked list concepts and LeetCode problem solving.
+
+**Work Done:**
+- Practiced linked list operations and implementation logic  
+- Strengthened understanding of node manipulation and traversal  
+- Solved LeetCode problems related to data structures and logic building  
+
+🔗 **Linked List – DSA Practice:**  
+[Open Linked List Practice](https://github.com/kanhiya-sh/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/linked-list)  
+
+🔗 **LeetCode – DSA Practice:**  
+[Open DSA LeetCode Practice](https://github.com/kanhiya-sh/BridgeLabz-Training/tree/dsa-practice/dsa-practice/leet-code-codebase)  
+
+---
+
+### 📆 **12 January 2026**
+Worked on scenario-based Object-Oriented Programming (OOPS) projects and continued DSA practice through LeetCode.
+
+**Work Done:**
+- Implemented real-world scenario-based OOPS projects:
+  - Smart Shelf Project  
+  - Student Course Registration System  
+  - Inventory Management System  
+  - Event Manager Project  
+  - Hospital Patient Management System  
+  - Vehicle Rental System  
+  - Flight Booking System  
+- Applied OOPS principles to design and structure case-based applications  
+- Solved LeetCode problems related to data structures and logic building  
+
+🔗 **OOPS – Scenario Based:**  
+[Open OOPS Scenario Based](https://github.com/kanhiya-sh/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based)  
+
+🔗 **LeetCode – DSA Practice:**  
+[Open DSA LeetCode Practice](https://github.com/kanhiya-sh/BridgeLabz-Training/tree/dsa-practice/dsa-practice/leet-code-codebase)  
+
+---
+
+### 📆 **13 January 2026**
+Worked on advanced scenario-based problems in OOPS and DSA, including stack-based logic and LeetCode practice.
+
+**Work Done:**
+- Implemented scenario-based OOPS projects:
+  - Online Voting System  
+  - Digital Wallet System  
+- Solved scenario-based DSA problems such as Traffic Manager  
+- Practiced stack-based questions and operations  
+- Solved LeetCode problems related to data structures and logic building  
+
+🔗 **OOPS – Scenario Based:**  
+[Open OOPS Scenario Based](https://github.com/kanhiya-sh/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based)  
+
+🔗 **DSA – Scenario Based:**  
+[Open DSA Scenario Based](https://github.com/kanhiya-sh/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/TrafficManagerRoundAboutVehicleFlow)  
+
+🔗 **LeetCode – DSA Practice:**  
+[Open DSA LeetCode Practice](https://github.com/kanhiya-sh/BridgeLabz-Training/tree/dsa-practice/dsa-practice/leet-code-codebase)  
+
+---
+
+### 📆 **14 January 2026**
+Focused on core Data Structures concepts including stack, queue, and hashmap implementations along with LeetCode problem solving.
+
+**Work Done:**
+- Practiced stack-based problems and operations  
+- Implemented queue-based logic and programs  
+- Worked with hashmap for key-value based problem solving  
+- Solved LeetCode problems related to data structures and logic building  
+- Strengthened understanding of data structure efficiency and use cases  
+
+🔗 **DSA Practice - Stack Queue:**  
+[Open DSA Practice](https://github.com/kanhiya-sh/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/stack-queue)  
+
+🔗 **DSA Practice - Hash Maps and functions:**  
+[Open DSA Practice](https://github.com/kanhiya-sh/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/hash-maps-hash-functions)  
+
+🔗 **LeetCode – DSA Practice:**  
+[Open DSA LeetCode Practice](https://github.com/kanhiya-sh/BridgeLabz-Training/tree/dsa-practice/dsa-practice/leet-code-codebase)  
+
+---
+
 ## 🧠 Concepts Covered
 
 - Core Java Fundamentals  
