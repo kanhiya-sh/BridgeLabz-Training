@@ -55,5 +55,13 @@ public class AddressBookSystemMain {
                 newAddress, newCity, newState,
                 newZip, newPhoneNumber, newEmail
         );
+
+        // -------- UC-4 : Delete Contact --------
+        System.out.println("\nDelete Existing Contact");
+        System.out.print("Enter First Name to Delete : ");
+        String deleteFirstName = myScan.nextLine();
+        System.out.print("Enter Last Name to Delete : ");
+        String deleteLastName = myScan.nextLine();
+        addressBook.deleteContact(deleteFirstName, deleteLastName);
     }
 }
