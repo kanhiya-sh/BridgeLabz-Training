@@ -6,19 +6,48 @@ public class AddressBookSystemMain {
     public static void main(String[] args) {
         System.out.println("Welcome to Address Book Program");
         Scanner myScan = new Scanner(System.in);
-        AddressBook addressBook = new AddressBook();
+        Map<String, AddressBook> addressBookMap = new HashMap<>();
+        AddressBook currentAddressBook = null;
         int choice;
         do {
-            System.out.println("\n--- Address Book Menu ---");
-            System.out.println("1. Add Contact");
-            System.out.println("2. Edit Contact");
-            System.out.println("3. Delete Contact");
-            System.out.println("4. Exit");
+            System.out.println("\n--- Address Book System Menu ---");
+            System.out.println("1. Create Address Book");
+            System.out.println("2. Select Address Book");
+            System.out.println("3. Add Contact");
+            System.out.println("4. Edit Contact");
+            System.out.println("5. Delete Contact");
+            System.out.println("6. Exit");
             System.out.print("Enter your choice : ");
             choice = myScan.nextInt();
-            myScan.nextLine(); // buffer clear
+            myScan.nextLine();
             switch (choice) {
-                case 1: // ADD CONTACT
+                case 1: // CREATE ADDRESS BOOK
+                    System.out.print("Enter Address Book Name : ");
+                    String bookName = myScan.nextLine();
+
+                    if (addressBookMap.containsKey(bookName)) {
+                        System.out.println("Address Book already exists");
+                    } else {
+                        addressBookMap.put(bookName, new AddressBook());
+                        System.out.println("Address Book created successfully");
+                    }
+                    break;
+                case 2: // SELECT ADDRESS BOOK
+                    System.out.print("Enter Address Book Name to Select : ");
+                    String selectName = myScan.nextLine();
+
+                    if (addressBookMap.containsKey(selectName)) {
+                        currentAddressBook = addressBookMap.get(selectName);
+                        System.out.println("Address Book selected");
+                    } else {
+                        System.out.println("Address Book not found");
+                    }
+                    break;
+                case 3: // ADD CONTACT
+                    if (currentAddressBook == null) {
+                        System.out.println("Please select an Address Book first");
+                        break;
+                    }
                     System.out.print("Enter First Name : ");
                     String firstName = myScan.nextLine();
 
@@ -42,11 +71,16 @@ public class AddressBookSystemMain {
 
                     System.out.print("Enter Email : ");
                     String email = myScan.nextLine();
+
                     Contact contact = new Contact(firstName, lastName, address, city, state, zip,
                             phoneNumber, email);
-                    addressBook.addContact(contact);
+                    currentAddressBook.addContact(contact);
                     break;
-                case 2: // EDIT CONTACT
+                case 4: // EDIT CONTACT
+                    if (currentAddressBook == null) {
+                        System.out.println("Please select an Address Book first");
+                        break;
+                    }
                     System.out.print("Enter First Name to Edit : ");
                     String editFirstName = myScan.nextLine();
 
@@ -70,28 +104,33 @@ public class AddressBookSystemMain {
 
                     System.out.print("Enter New Email : ");
                     String newEmail = myScan.nextLine();
-                    addressBook.editContact(editFirstName, editLastName, newAddress, newCity, newState,
+                    currentAddressBook.editContact(editFirstName, editLastName, newAddress, newCity, newState,
                             newZip, newPhone, newEmail);
                     break;
-                case 3: // DELETE CONTACT
+
+                case 5: // DELETE CONTACT
+                    if (currentAddressBook == null) {
+                        System.out.println("Please select an Address Book first");
+                        break;
+                    }
                     System.out.print("Enter First Name to Delete : ");
                     String deleteFirstName = myScan.nextLine();
 
                     System.out.print("Enter Last Name to Delete : ");
                     String deleteLastName = myScan.nextLine();
 
-                    addressBook.deleteContact(deleteFirstName, deleteLastName);
+                    currentAddressBook.deleteContact(deleteFirstName, deleteLastName);
                     break;
 
-                case 4: // EXIT
-                    System.out.println("Exiting Address Book Program");
+                case 6:
+                    System.out.println("Exiting Address Book System");
                     break;
 
                 default:
-                    System.out.println("Invalid Choice. Please try again.");
+                    System.out.println("Invalid choice");
             }
 
         }
-        while (choice != 4);
+        while (choice != 6);
     }
 }
