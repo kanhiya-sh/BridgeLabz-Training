@@ -8,7 +8,7 @@ public class AddressBook {
         contactList.add(contact);
         System.out.println("Contact Added Successfully !!");
     }
-//    to update the details using name
+//  to update the details using name
     public void editContact(String firstName, String lastName, String address, String city,
                             String state, String zip, String phoneNumber, String email) {
         for(Contact contact : contactList) {
@@ -23,5 +23,18 @@ public class AddressBook {
                 return;
             }
         }
+    }
+    public void deleteContact(String firstName, String lastName) {
+        Iterator<Contact> iterator = contactList.iterator();
+        while (iterator.hasNext()) {
+            Contact contact = iterator.next();
+            if (contact.getFirstName().equals(firstName)
+                    && contact.getLastName().equals(lastName)) {
+                iterator.remove();
+                System.out.println("Contact deleted successfully");
+                return;
+            }
+        }
+        System.out.println("Contact not found");
     }
 }
