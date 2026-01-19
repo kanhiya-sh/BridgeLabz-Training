@@ -24,37 +24,35 @@ public class Contact {
         this.phoneNumber = phoneNumber;
         this.email = email;
     }
-
     public String getFirstName() {
         return firstName;
     }
-
     public String getLastName() {
         return lastName;
     }
-
     public void setAddress(String address) {
         this.address = address;
     }
-
     public void setCity(String city) {
         this.city = city;
     }
-
     public void setState(String state) {
         this.state = state;
     }
-
     public void setZip(String zip) {
         this.zip = zip;
     }
-
     public void setPhoneNumber(String phoneNumber) {
         this.phoneNumber = phoneNumber;
     }
-
     public void setEmail(String email) {
         this.email = email;
+    }
+    public String getCity() {
+        return city;
+    }
+    public String getState() {
+        return state;
     }
     @Override
     public boolean equals(Object obj) {
