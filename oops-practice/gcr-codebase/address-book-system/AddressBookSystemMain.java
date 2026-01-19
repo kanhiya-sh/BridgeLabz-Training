@@ -17,7 +17,9 @@ public class AddressBookSystemMain {
             System.out.println("5. Delete Contact");
             System.out.println("6. Search Person by City");
             System.out.println("7. Search Person by State");
-            System.out.println("8. Exit");
+            System.out.println("8. View Persons by City");
+            System.out.println("9. View Persons by State");
+            System.out.println("10. Exit");
             System.out.print("Enter your choice : ");
             choice = myScan.nextInt();
             myScan.nextLine();
@@ -143,10 +145,53 @@ public class AddressBookSystemMain {
                     }
                     break;
                 case 8:
+                    Map<String, List<String>> cityPersonMap = new HashMap<>();
+                    for (Map.Entry<String, AddressBook> entry : addressBookMap.entrySet()) {
+                        for (Contact c : entry.getValue().searchByCity("")) {
+                            cityPersonMap
+                                    .computeIfAbsent(c.getCity(), k -> new ArrayList<>())
+                                    .add(c.getFirstName() + " " + c.getLastName());
+                        }
+                    }
+                    if (cityPersonMap.isEmpty()) {
+                        System.out.println("No contacts available");
+                    }
+                    else {
+                        for (Map.Entry<String, List<String>> e : cityPersonMap.entrySet()) {
+                            System.out.println("\nCity : " + e.getKey());
+                            for (String name : e.getValue()) {
+                                System.out.println(name);
+                            }
+                        }
+                    }
+                    break;
+                case 9:
+                    Map<String, List<String>> statePersonMap = new HashMap<>();
+                    for (Map.Entry<String, AddressBook> entry : addressBookMap.entrySet()) {
+                        for (Contact c : entry.getValue().searchByState("")) {
+                            statePersonMap
+                                    .computeIfAbsent(c.getState(), k -> new ArrayList<>())
+                                    .add(c.getFirstName() + " " + c.getLastName());
+                        }
+                    }
+                    if (statePersonMap.isEmpty()) {
+                        System.out.println("No contacts available");
+                    }
+                    else {
+                        for (Map.Entry<String, List<String>> e : statePersonMap.entrySet()) {
+                            System.out.println("\nState : " + e.getKey());
+                            for (String name : e.getValue()) {
+                                System.out.println(name);
+                            }
+                        }
+                    }
+                    break;
+                case 10:
                     System.out.println("Exiting Address Book System");
                     break;
                 default:
                     System.out.println("Invalid choice");
+
             }
         }
         while (choice != 8);
