@@ -19,7 +19,9 @@ public class AddressBookSystemMain {
             System.out.println("7. Search Person by State");
             System.out.println("8. View Persons by City");
             System.out.println("9. View Persons by State");
-            System.out.println("10. Exit");
+            System.out.println("10. Count Contacts by City");
+            System.out.println("11. Count Contacts by State");
+            System.out.println("12. Exit");
             System.out.print("Enter your choice : ");
             choice = myScan.nextInt();
             myScan.nextLine();
@@ -187,13 +189,50 @@ public class AddressBookSystemMain {
                     }
                     break;
                 case 10:
+                    Map<String, Integer> cityCountMap = new HashMap<>();
+                    for (Map.Entry<String, AddressBook> entry : addressBookMap.entrySet()) {
+                        for (Contact c : entry.getValue().searchByCity("")) {
+                            cityCountMap.put(
+                                    c.getCity(),
+                                    cityCountMap.getOrDefault(c.getCity(), 0) + 1
+                            );
+                        }
+                    }
+                    if (cityCountMap.isEmpty()) {
+                        System.out.println("No contacts available");
+                    }
+                    else {
+                        System.out.println("\n--- Count by City ---");
+                        for (Map.Entry<String, Integer> e : cityCountMap.entrySet()) {
+                            System.out.println(e.getKey() + " : " + e.getValue());
+                        }
+                    }
+                    break;
+                case 11:
+                    Map<String, Integer> stateCountMap = new HashMap<>();
+                    for (Map.Entry<String, AddressBook> entry : addressBookMap.entrySet()) {
+                        for (Contact c : entry.getValue().searchByState("")) {
+                            stateCountMap.put(
+                                    c.getState(),
+                                    stateCountMap.getOrDefault(c.getState(), 0) + 1
+                            );
+                        }
+                    }
+                    if (stateCountMap.isEmpty()) {
+                        System.out.println("No contacts available");
+                    }
+                    else {
+                        System.out.println("\n--- Count by State ---");
+                        for (Map.Entry<String, Integer> e : stateCountMap.entrySet()) {
+                            System.out.println(e.getKey() + " : " + e.getValue());
+                        }
+                    }
+                    break;
+                case 12:
                     System.out.println("Exiting Address Book System");
                     break;
-                default:
-                    System.out.println("Invalid choice");
-
             }
         }
-        while (choice != 8);
+        while (choice != 12);
     }
 }
