@@ -1,31 +1,38 @@
 package BridgeLabz_Day26_AddressBookProblem;
 
-import java.util.*;
+import java.util.HashSet;
+import java.util.Iterator;
 
 public class AddressBook {
-    private ArrayList<Contact> contactList = new ArrayList<>();
+    private HashSet<Contact> contactSet = new HashSet<>();
     public void addContact(Contact contact) {
-        contactList.add(contact);
-        System.out.println("Contact Added Successfully !!");
+        if (contactSet.add(contact)) {
+            System.out.println("Contact added successfully");
+        } else {
+            System.out.println("Duplicate contact not allowed");
+        }
     }
-//  to update the details using name
-    public void editContact(String firstName, String lastName, String address, String city,
-                            String state, String zip, String phoneNumber, String email) {
-        for(Contact contact : contactList) {
-            if(contact.getFirstName().equals(firstName) && contact.getLastName().equals(lastName)) {
+    public void editContact(String firstName, String lastName,
+                            String address, String city, String state,
+                            String zip, String phoneNumber, String email) {
+
+        for (Contact contact : contactSet) {
+            if (contact.getFirstName().equals(firstName)
+                    && contact.getLastName().equals(lastName)) {
                 contact.setAddress(address);
                 contact.setCity(city);
                 contact.setState(state);
                 contact.setZip(zip);
                 contact.setPhoneNumber(phoneNumber);
                 contact.setEmail(email);
-                System.out.println("Contact updated successfully !!");
+                System.out.println("Contact updated successfully");
                 return;
             }
         }
+        System.out.println("Contact not found");
     }
     public void deleteContact(String firstName, String lastName) {
-        Iterator<Contact> iterator = contactList.iterator();
+        Iterator<Contact> iterator = contactSet.iterator();
         while (iterator.hasNext()) {
             Contact contact = iterator.next();
             if (contact.getFirstName().equals(firstName)
