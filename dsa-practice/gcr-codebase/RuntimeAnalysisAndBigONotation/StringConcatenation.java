@@ -1,0 +1,22 @@
+package BridgeLabz_Day28_RuntimeBigONotation;
+
+public class StringConcatenation {
+    public static void main(String[] args) {
+        int n = 100000;
+        long start = System.nanoTime();
+        String s = "";
+        for (int i = 0; i < n; i++) s += "a";
+        long end = System.nanoTime();
+        System.out.println("String Time is : " + (end-start)/1e6 + " ms");
+        start = System.nanoTime();
+        StringBuilder sb = new StringBuilder();
+        for (int i = 0; i < n; i++) sb.append("a");
+        end = System.nanoTime();
+        System.out.println("StringBuilder Time is : " + (end-start)/1e6 + " ms");
+        start = System.nanoTime();
+        StringBuffer buffer = new StringBuffer();
+        for (int i = 0; i < n; i++) buffer.append("a");
+        end = System.nanoTime();
+        System.out.println("StringBuffer Time is : " + (end-start)/1e6 + " ms");
+    }
+}
