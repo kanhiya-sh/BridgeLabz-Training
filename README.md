@@ -430,6 +430,76 @@ Focused on core Data Structures concepts including stack, queue, and hashmap imp
 
 ---
 
+### 📆 **15 January 2026**
+Worked on sorting techniques and participated in the weekly review session.
+
+**Work Done:**
+- Learned different sorting techniques and their working principles  
+- Practiced problems based on various sorting algorithms  
+- Participated in a comprehensive weekly review session with an external mentor  
+- Received feedback and identified areas for improvement  
+
+🔗 **DSA Practice - Sorting Algorithms:**  
+[Open DSA Practice](https://github.com/kanhiya-sh/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/sorting)  
+
+🔗 **LeetCode – DSA Practice:**  
+[Open DSA LeetCode Practice](https://github.com/kanhiya-sh/BridgeLabz-Training/tree/dsa-practice/dsa-practice/leet-code-codebase)  
+
+---
+
+### 📆 **16 January 2026**
+Continued sorting techniques and worked on OOPS mini project.
+
+**Work Done:**
+- Revised and practiced different sorting techniques  
+- Solved problems based on sorting algorithms  
+- Worked on Address Book System OOPS mini project up to Use Case 3  
+- Applied OOPS concepts in a real-world project scenario  
+
+🔗 **DSA Practice - Sorting Algorithms:**  
+[Open DSA Practice](https://github.com/kanhiya-sh/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/sorting)  
+
+🔗 **LeetCode – DSA Practice:**  
+[Open DSA LeetCode Practice](https://github.com/kanhiya-sh/BridgeLabz-Training/tree/dsa-practice/dsa-practice/leet-code-codebase)  
+
+🔗 **OOPS – Address Book Problem:**  
+[Open OOPS GCR Codebase](https://github.com/kanhiya-sh/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/address-book-system)  
+
+---
+
+### 📆 **17 January 2026**
+Learned searching algorithms and continued OOPS mini project development.
+
+**Work Done:**
+- Learned Linear Search and Binary Search algorithms  
+- Practiced problems based on searching algorithms  
+- Worked with `StringBuilder`, `StringBuffer`, and `FileReader`  
+- Extended Address Book System project up to Use Case 5 and 6  
+
+🔗 **OOPS – Address Book Problem:**  
+[Open OOPS GCR Codebase](https://github.com/kanhiya-sh/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/address-book-system)  
+
+🔗 **DSA Practice - Binary and Linear Search:**  
+[Open DSA Practice](https://github.com/kanhiya-sh/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/linear-binary-search)  
+
+🔗 **LeetCode – DSA Practice:**  
+[Open DSA LeetCode Practice](https://github.com/kanhiya-sh/BridgeLabz-Training/tree/dsa-practice/dsa-practice/leet-code-codebase)  
+
+---
+
+### 📆 **18 January 2026**
+Continued working on the OOPS mini project – Address Book System.
+
+**Work Done:**
+- Implemented Address Book System Use Cases 7, 8, 9, and 10  
+- Enhanced existing project logic and flow  
+- Strengthened understanding of OOPS concepts through hands-on implementation  
+
+🔗 **OOPS – Address Book Problem:**  
+[Open OOPS GCR Codebase](https://github.com/kanhiya-sh/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/address-book-system)  
+
+---
+
 ## 🧠 Concepts Covered
 
 - Core Java Fundamentals  
