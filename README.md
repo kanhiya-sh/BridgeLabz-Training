@@ -500,6 +500,285 @@ Continued working on the OOPS mini project – Address Book System.
 
 ---
 
+### 📆 **20 January 2026**
+Worked on time complexity concepts and scenario-based DSA projects.
+
+**Work Done:**
+- Learned and practiced Big-O Notation concepts  
+- Analyzed time complexity of different algorithmic approaches  
+- Implemented scenario-based DSA projects:
+  - Cinema Time Project  
+  - Parcel Tracker Project  
+  - Exam Proctor Project  
+  - Employee Role Polymorphism Project  
+  - Browser Buddy Project  
+  - Book Shelf Project  
+- Strengthened understanding of performance analysis and real-world problem solving  
+
+🔗 **DSA – Big O Notation:**  
+[Open Big O Practice]()  
+
+🔗 **DSA – Scenario Based:**  
+[Open DSA Scenario Based]()  
+
+---
+
+### 📆 **21 January 2026**
+Learned Java Generics and continued DSA problem solving on LeetCode.
+
+**Work Done:**
+- Learned Java Generics for type safety  
+- Practiced generic classes and methods  
+- Solved DSA problems on LeetCode to strengthen problem-solving skills  
+
+🔗 **Collections – Java Generics:**  
+[Open Java Generics]()  
+
+🔗 **DSA – LeetCode Practice:**  
+[Open DSA LeetCode Practice]()  
+
+---
+
+### 📆 **22 January 2026**
+Focused on understanding Java Collections Framework.
+
+**Work Done:**
+- Learned core concepts of Java Collections  
+- Worked with List, Set, and Map implementations  
+- Practiced collection-based programs  
+
+🔗 **Collections Practice:**  
+[Open Collections Practice]()  
+
+---
+
+### 📆 **23 January 2026**
+Continued advanced problem solving using Java Collections.
+
+**Work Done:**
+- Implemented advanced collection-based programs  
+- Improved data handling using Collections API  
+- Strengthened logical thinking through collection problems  
+
+🔗 **Collections Practice:**  
+[Open Collections Practice]()  
+
+---
+
+### 📆 **26 January 2026**
+Worked on Java Streams for efficient data processing.
+
+**Work Done:**
+- Learned Java Streams API  
+- Practiced operations such as `filter`, `map`, and `reduce`  
+- Implemented functional-style data processing programs  
+
+🔗 **Java Streams:**  
+[Open Java Streams]()  
+
+---
+
+### 📆 **27 January 2026**
+Focused on Exception Handling in Java.
+
+**Work Done:**
+- Learned checked and unchecked exceptions  
+- Implemented `try-catch-finally` blocks  
+- Created custom exceptions  
+- Improved program stability and error handling  
+
+🔗 **Exception Handling:**  
+[Open Exception Handling]()  
+
+---
+
+### 📆 **28 January 2026**
+Worked on scenario-based DSA real-world problem statements.
+
+**Work Done:**
+- Implemented scenario-based DSA programs  
+- Designed logic for practical system-level problems  
+- Improved problem-solving and logical structuring skills  
+
+**Projects Implemented:**
+- Table Reservation Project  
+- File Back Scheduler Project  
+- Smart Checkout Project  
+- Edu Results Project  
+
+🔗 **DSA – Scenario Based:**  
+[Open DSA Scenario Based]()  
+
+---
+
+### 📆 **30 January 2026**
+Worked on Regex patterns and unit testing.
+
+**Work Done:**
+- Practiced Java Regex for pattern matching and validation  
+- Learned JUnit basics for writing test cases  
+- Improved testing logic and input validation  
+
+🔗 **Collections – Regex:**  
+[Open Regex Practice]()  
+
+🔗 **Collections – JUnit:**  
+[Open JUnit Practice]()  
+
+---
+
+### 📆 **31 January 2026**
+Worked on scenario-based problems using Java Collections.
+
+**Work Done:**
+- Implemented real-world collection-based programs  
+- Applied practical logic using Collections framework  
+- Solved scenario problems:
+  - Flip-Key Logical Problem  
+  - Lexical Twist  
+
+🔗 **Collections – Scenario Based:**  
+[Open Collections Scenario Based]()  
+
+---
+
+### 📆 **01 February 2026**
+Worked on Java Reflection and scenario-based project.
+
+**Work Done:**
+- Learned Java Reflection API concepts  
+- Implemented dynamic class handling logic  
+- Completed scenario-based project: Future Logistics  
+
+🔗 **Collections – Reflection:**  
+[Open Reflection Practice]()  
+
+---
+
+### 📆 **02 February 2026**
+Practiced Java Annotations and CSV file handling.
+
+**Work Done:**
+- Learned Java Annotations and their usage  
+- Implemented annotation-based programs  
+- Worked with CSV file reading and processing  
+
+🔗 **Collections – Annotations:**  
+[Open Annotations Practice]()  
+
+🔗 **Collections – CSV Handling:**  
+[Open CSV Handling]()  
+
+---
+
+### 📆 **03 February 2026**
+Worked on JSON handling and scenario-based problems.
+
+**Work Done:**
+- Learned JSON parsing and handling in Java  
+- Implemented programs using JSON data  
+- Completed scenario problems:
+  - Factory Robot Hazard Analyzer  
+  - Stream Buzz  
+
+🔗 **Collections – GCR Codebase:**  
+[Open JSON & GCR Practice]()  
+
+---
+
+### 📆 **04 February 2026**
+Worked on Java 8 functional programming concepts.
+
+**Work Done:**
+- Learned Lambda Expressions  
+- Practiced Functional Interfaces  
+- Implemented functional-style programs  
+
+🔗 **Java 8 – Lambda Expressions:**  
+[Open Lambda Practice]()  
+
+🔗 **Java 8 – Functional Interfaces:**  
+[Open Functional Interfaces]()  
+
+---
+
+### 📆 **05 February 2026**
+Implemented Java 8 scenario-based project.
+
+**Work Done:**
+- Built real-world project: AeroVigil  
+- Applied Java 8 concepts in practical design  
+
+🔗 **Java 8 – Scenario Based:**  
+[Open Java 8 Scenario Project]()  
+
+---
+
+### 📆 **06 February 2026**
+Worked on Java Stream API concepts.
+
+**Work Done:**
+- Learned Stream API  
+- Practiced `filter`, `map`, and `reduce` operations  
+- Implemented functional data processing  
+
+🔗 **Java 8 – Stream API:**  
+[Open Stream API]()  
+
+---
+
+### 📆 **07 February 2026**
+Worked on Java Collectors and scenario-based project.
+
+**Work Done:**
+- Learned Collectors utility class  
+- Practiced grouping and aggregation  
+- Implemented project: OceanFleet  
+
+🔗 **Java 8 – Collectors:**  
+[Open Collectors Practice]()  
+
+---
+
+### 📆 **09 February 2026**
+Worked on code quality and static analysis.
+
+**Work Done:**
+- Learned SonarQube concepts  
+- Ran code quality analysis  
+- Understood code smells and improvements  
+
+🔗 **Collections – SonarQube:**  
+[Open SonarQube]()  
+
+---
+
+### 📆 **10 February 2026**
+Practiced writing unit test cases using JUnit.
+
+**Work Done:**
+- Implemented unit test cases  
+- Learned assertion methods  
+- Improved debugging skills  
+
+🔗 **Collections – Test Cases:**  
+[Open Test Cases]()  
+
+---
+
+### 📆 **11 February 2026**
+Worked on database connectivity using JDBC.
+
+**Work Done:**
+- Implemented JDBC connectivity  
+- Built database-based Health Clinic App  
+- Practiced database operations using Java  
+
+🔗 **DBMS – JDBC:**  
+[Open JDBC Project]()  
+
+---
+
 ## 🧠 Concepts Covered
 
 - Core Java Fundamentals  
@@ -507,8 +786,21 @@ Continued working on the OOPS mini project – Address Book System.
 - Control Flow  
 - Arrays and Strings  
 - Methods and Modular Programming  
-- Object-Oriented Programming  
-- Data Structures & Algorithms  
+- Object-Oriented Programming (OOPS)  
+- Data Structures & Algorithms (DSA)  
+- Big-O Notation and Complexity Analysis  
+- Searching and Sorting Algorithms  
+- Linked List, Stack, Queue, and HashMap  
+- Java Collections Framework  
+- Java Generics, Streams, and Exception Handling  
+- Java 8 Features (Lambda Expressions, Functional Interfaces, Stream API, Collectors)  
+- File Handling (CSV, JSON)  
+- Java Reflection and Annotations  
+- Regex and Pattern Matching  
+- Unit Testing with JUnit  
+- Static Code Analysis with SonarQube  
+- JDBC and Database Connectivity  
+- Scenario-Based Problem Solving  
 - LeetCode Practice  
 - Git & GitHub  
 
@@ -517,7 +809,7 @@ Continued working on the OOPS mini project – Address Book System.
 ## 🔄 Ongoing Updates
 
 This repository is **actively maintained**.  
-New commits, folders, and improvements will continue to be added.
+All Core Java, OOPS, DSA, Collections, Java 8, and DBMS updates will be added **date-wise in this single README** to maintain a unified progress timeline and avoid merge conflicts.
 
 ---
 
